@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /**
  * Assignment 1 - Guessing Game
  * 
