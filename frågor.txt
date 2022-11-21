@@ -1,0 +1,24 @@
+När använder man add respektive commit?
+Svar:
+- "add" används för att lägga till filer eller mappar till "staging area", dvs det som ska committas. 
+- "commit" används för att befästa ändringarna som ligger i "staging area" till branchen. Efter 
+commit har alla medlemmar tillgång till ändringarna. 
+
+Vad är pull repektive push?
+Svar:
+- "pull" används för att hämta alla ändringar ett "remote repository" som är "origin"
+och lägga till i ditt "local repository".
+- "push" används för att skicka dina förändringar från "local" till "remote/origin"
+
+När använder man log respektive status?
+Svar:
+- "log" används för att lista commits som redan gjorts
+- "status" används för att lista filer/mappar som inte är committade än, dvs om det
+finns ändringar som inte är "addade" än eller om det ligger filer i "staging area"
+som inte är committade än.
+
+Hur kan man formulera sig i sina commit-meddelanden?
+Svar:
+- Du bör formulera sig kort och koncist
+- Du ska anta att mottagaren inte vet vad din kod handlar om.
+- Du ska skriva i presens.
