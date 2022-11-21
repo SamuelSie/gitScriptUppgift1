@@ -16,7 +16,7 @@ do
 done
 
 cd ./Samuel_Siesjo_labb
-
+echo -n "Running game from "
 pwd
 
 echo "Compiling... "
